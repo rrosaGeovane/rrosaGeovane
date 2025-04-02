@@ -19,8 +19,8 @@ I am currently learning and developing projects using the following technologies
 
 ### 📫 Contact Me:
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  <a href="rrosageovane@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" target=blank/>
   </a>
   <a href="https://www.linkedin.com/in/geovane-ribeiro-aab5a42b6/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>

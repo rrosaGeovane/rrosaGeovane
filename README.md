@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👨‍💻 Geovane Ribeiro  
 
-<!--
-**rrosaGeovane/rrosaGeovane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! My name is **Geovane Ribeiro**, and I'm an **Information Systems** student at **ESAMC Uberlândia**.  
+I am currently learning and developing projects using the following technologies:
 
-Here are some ideas to get you started:
+### 🚀 Technologies I use:
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D"/>
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 📫 Contact Me:
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-username/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+🛠️ *Always looking to learn more and develop new projects!*

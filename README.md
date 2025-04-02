@@ -17,25 +17,12 @@ I am currently learning and developing projects using the following technologies
 
 ---
 
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D"/>
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ### 📫 Contact Me:
 <p align="center">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-username/">
+  <a href="https://www.linkedin.com/in/geovane-ribeiro-aab5a42b6/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>

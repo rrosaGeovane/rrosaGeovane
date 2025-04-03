@@ -19,11 +19,11 @@ I am currently learning and developing projects using the following technologies
 
 ### 📫 Contact Me:
 <p align="center">
-  <a href="rrosageovane@gmail.com">
+  <a [rrosageovane@email.com](mailto:rrosageovane@email.com)>
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" target=blank/>
   </a>
   <a href="https://www.linkedin.com/in/geovane-ribeiro-aab5a42b6/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target=blank/>
   </a>
 </p>
 

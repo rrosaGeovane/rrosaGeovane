@@ -39,17 +39,3 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrosageovane&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrosageovane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrosageovane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>

@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning: **Java**, **Python**
+- 🌱 I’m currently learning: **Python**
 - 💬 Ask me about: **C**, **BackEnd**, **SQl**, **Python**
 - 📫 How to reach me: **rrosageovane@gmail.com**
 

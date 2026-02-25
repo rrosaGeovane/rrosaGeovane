@@ -21,12 +21,10 @@
 
   <h3>💻 Languages and Tools:</h3>
     <p>
-      <img width="40" height="40" src="https://devicon-website.vercel.app/api/vscode/original.svg" />
-      <img width="40" height="40" src="https://devicon-website.vercel.app/api/intellij/original.svg" />
       <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />      
       <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
       <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-    </p>
+      <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   </div>
 
 
